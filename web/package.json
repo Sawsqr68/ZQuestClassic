@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "browser-fs-access": "^0.35.0",
-    "firebase": "^10.12.5",
+    "firebase": "^10.14.1",
     "idb-keyval": "^6.2.1",
     "monaco-editor": "^0.50.0",
     "monaco-editor-textmate": "^4.0.0",
@@ -14,9 +14,9 @@
     "workbox-cli": "^7.0.0"
   },
   "devDependencies": {
-    "esbuild": "^0.23.0",
+    "esbuild": "^0.28.1",
     "expect": "^29.4.3",
-    "mocha": "^10.2.0",
+    "mocha": "^12.0.3",
     "puppeteer": "^24.12.0",
     "statikk": "^2.2.1"
   }
